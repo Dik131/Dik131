@@ -1,6 +1,6 @@
 # Junior web-developer
 
-## Dmitry Ivanov, 29 years, Helsinki, Finland
+## Dmitry Ivanov, 29 years old, Helsinki, Finland
 
 Hello, my name is Dmitry. I used to be a broadcasting and communication engineer for the last 9 years, but half year ago I decided to change my career to the best and I statred to learn web-developing as I wished since schooltime. So, this is the list of my skills and qualifications.
 ___
