@@ -30,7 +30,7 @@ I currently work as a **Technical Support Specialist**, and I'm on a journey to 
 
 ### 🏆 Recent Projects
 
-- **[Weeky(https://weeky.netlify.app/)]** - Task manager on React JS with Redux as a state manager and IndexedDB as a starage.
+- **[Weeky](https://weeky.netlify.app/)** - Task manager on React JS with Redux as a state manager and IndexedDB as a starage.
 - **Telegram Bots** - Created custom Telegram bots to automate tasks and provide user interaction.
 - **Documentation** - Developed and maintained comprehensive technical documentation to support team workflows and internal tools.
 - **Automation Programs** - Wrote programs to automate repetitive tasks and improve efficiency in my current technical support role.
