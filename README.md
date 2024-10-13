@@ -41,3 +41,4 @@ I currently work as a **Technical Support Specialist**, and I'm on a journey to 
 - **Email**: [ivanov.dk131@gmail.com]
 - **LinkedIn**: [dmitry-ivanov](https://www.linkedin.com/in/dmitry-ivanov-47bb4921a/)
 - **GitHub**: [Dik131](github.com/Dik131)
+- **BlueSky**: [ivanovdk.bsky.social](https://bsky.app/profile/ivanovdk.bsky.social)
