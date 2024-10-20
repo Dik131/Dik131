@@ -1,6 +1,6 @@
 # Developer & Tech Support
 
-## Dmitry Ivanov :suspect:
+## Dmitrii Ivanov :suspect:
 
 Hello! My name is Dmitry Ivanov. I'm 31 years old and currently based in **Moscow, Russia** (recently relocated from Helsinki, Finland).
 
