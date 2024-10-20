@@ -14,7 +14,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Frontend**: React, Next.js
 - **Backend**: Node.js, Express, Nest.js, Deno, Flask
 - **Mobile Development**: React Native  
-- **Other Tools**: Git, Expo, Redux, PWA, SQLite, SCSS, Bootstrap, jQuery
+- **Other Tools**: Git, Expo, Redux, PWA, SQLite, Vite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
 - **Currently Learning**: CS50M, Node.js && Deno courses
