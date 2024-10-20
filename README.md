@@ -9,7 +9,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 ### 🛠️ Tech Stack & Skills
 
 - **Programming Languages**: JavaScript, TypeScript, Python, PHP, Go, C#, Delphi, C
-- **Linguistic Languages**: English (B2), Russian(native), German(A2), Finish(A1)
+- **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js
 - **Backend**: Node.js, Express, Nest.js, Deno, Flask
