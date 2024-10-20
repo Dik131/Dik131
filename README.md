@@ -13,7 +13,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js
 - **Backend**: Node.js, Express, Nest.js, Deno, Flask
-- **Mobile Development**: React♥️Native  
+- **Mobile Development**: React Native  
 - **Other Tools**: Git, Expo, Redux, PWA, SQLite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
@@ -22,7 +22,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 ### 🔍 Current Focus
 
 - **Next.js**: Building dynamic web applications with server-side rendering.
-- **React Native**: Developing cross-platform mobile apps.
+- **React Native**: Developing cross-platform mobile apps.♥️
 
 ### 🌱 On My Learning Path
 
