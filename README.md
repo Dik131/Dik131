@@ -1,6 +1,6 @@
 # Developer & Tech Support
 
-## Dmitry Ivanov
+## Dmitry Ivanov :suspect:
 
 Hello! My name is Dmitry Ivanov. I'm 31 years old and currently based in **Moscow, Russia** (recently relocated from Helsinki, Finland).
 
@@ -10,12 +10,12 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 
 - **Languages**: JavaScript, TypeScript, Python, Go, C#, Delphi, C, HTML, CSS
 - **Frontend**: React, Next.js
-- **Backend**: Node.js, Express, Nest.js, Flask
-- **Mobile Development**: React Native
+- **Backend**: Node.js, Express, Nest.js, Deno, Flask
+- **Mobile Development**: React Native ♥️ 
 - **Other Tools**: Git, Expo, Redux, PWA, SQLite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
-- **Currently Learning**: CS50M & Node.js courses
+- **Currently Learning**: CS50M, Node.js && Deno courses
 
 ### 🔍 Current Focus
 
@@ -30,7 +30,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 
 ### 🏆 Recent Projects
 
-- **[Weeky](https://weeky.netlify.app/)** - A task manager built with React and Redux, utilizing IndexedDB for local storage.
+- 📝**[Weeky](https://weeky.netlify.app/)** - A task manager built with React and Redux, utilizing IndexedDB for local storage.
 - **Telegram Bots** - Created custom Telegram bots using Telegraf and Node-Telegram-bot libraries to automate tasks and enhance user interaction.
 - **Documentation** - Developed comprehensive technical documentation using Docsify to support team workflows and maintain internal tools.
 - **Automation Programs** - Wrote automation scripts to optimize repetitive tasks and improve efficiency in my current role.
