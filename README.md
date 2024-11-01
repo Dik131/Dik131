@@ -17,7 +17,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Other Tools**: PWA, Electron, Expo, Redux, SQLite, Git, Vite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
-- **Currently Learning**: CS50M, Node.js && Deno courses
+- **Currently Learning**: CS50M && Node.js 
 
 ### 🔍 Current Focus
 
