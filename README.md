@@ -13,8 +13,9 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js
 - **Backend**: Node.js, Express, Nest.js, Deno, Flask
-- **Mobile Development**: React Native, PWA, Expo
-- **Desktop**: Electron, Tauri  
+- **Mobile Development**: React Native + Expo, PWA
+- **TV apps Development**: React Native + Expo
+- **Desktop Development**: Electron, Tauri, PWA 
 - **Other Tools**: Redux, SQLite, Git, Vite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
