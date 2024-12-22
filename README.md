@@ -43,6 +43,6 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 
 - **Email**: [ivanov.dk131@gmail.com](mailto:ivanov.dk131@gmail.com)
 - **LinkedIn**: [Dmitry Ivanov](https://www.linkedin.com/in/dmitry-ivanov-47bb4921a/)
-- **GitHub**: [Dik131](https://github.com/Dik131)
+- **GitHub**: [Dik131](https://github.com/Dik131) [IvanovDkLACCTV](https://github.com/IvanovDkLACCTV))
 - **BlueSky**: [ivanovdk.bsky.social](https://bsky.app/profile/ivanovdk.bsky.social)
 - **Telegram**: [Dik131](https://t.me/Dik131)
