@@ -34,7 +34,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 
 ### 🏆 Recent Projects
 
-- **[APK](https://drive.google.com/file/d/1qINTBb7q1WqKikYpudwz7-wWV5pYDfyw/view?usp=drivesdk), [Code]()** - The application that I wrote as part of the React Native (Expo) and Node.JS (Express.js ) courses.
+- **[APK](https://drive.google.com/file/d/1qINTBb7q1WqKikYpudwz7-wWV5pYDfyw/view?usp=drivesdk), [Code](https://github.com/Dik131/course-app)** - The application that I wrote as part of the React Native (Expo) and Node.JS (Express.js ) courses.
 - 📝 **[Weeky](https://weeky.netlify.app/)** - A task manager built with React and Redux, utilizing IndexedDB for local storage.
 - **Telegram Bots** - Created custom Telegram bots using Telegraf and Node-Telegram-bot libraries to automate tasks and enhance user interaction.
 - **Documentation** - Developed comprehensive technical documentation using Docsify to support team workflows and maintain internal tools.
