@@ -2,7 +2,7 @@
 
 ## Dmitrii Ivanov :suspect:
 
-Hello! My name is Dmitrii. I'm 31 years old and currently based in **Moscow, Russia** (recently relocated from Turku, Finland).
+Hello! My name is Dmitrii. I'm 32 years old and currently based in **Moscow, Russia** (recently relocated from Turku, Finland).
 
 I currently work as a **Technical Support Specialist** and am on a journey to become a **Next.js** and **React Native** developer. I am passionate about front-end development and am actively building my expertise in modern web and mobile development technologies.
 
