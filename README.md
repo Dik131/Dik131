@@ -49,3 +49,4 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **GitHub**: [Dik131](https://github.com/Dik131) [IvanovDkLACCTV](https://github.com/IvanovDkLACCTV)
 - **BlueSky**: [ivanovdk.bsky.social](https://bsky.app/profile/ivanovdk.bsky.social)
 - **Telegram**: [Dik131](https://t.me/Dik131)
+[Business-card](https://ivanovdk-bc.netlify.app/)
