@@ -19,7 +19,7 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Other Tools**: Zustand,Redux, SQLite, Git, Vite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
-- **Currently Learning**: CS50M && Node.js 
+- **Currently Learning**: Next.js, Nest.js, Electron, Lynx
 
 ### 🔍 Current Focus
 
