@@ -30,9 +30,9 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 
 ### 🌱 On My Learning Path
 
-- Diving deeper into full-stack development with **Next.js**.
-- Enhancing my knowledge of backend integration using **Node.js** and **Express**.
+- Diving deeper into full-stack development with **Next.js**, **Nest.js** and **Electron.js**.
 - Refining my skills in **React Native** for building high-performance mobile apps.
+- My **[Stepik](https://stepik.org/users/37791605/profile)** profile
 
 ### 🏆 Recent Projects
 
