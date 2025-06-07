@@ -4,7 +4,7 @@
 
 Hello! My name is Dmitrii. I'm 32 years old and currently based in **Moscow, Russia** (recently relocated from Turku, Finland).
 
-I currently work as a **Technical Support Specialist** and **DevOps**, but I'm on a journey to become a **Crossplatform Full-Stack** JavaScript developer. I am passionate about front-end development and am actively building my expertise in modern web and mobile development technologies.
+I currently work as a **Technical Support Specialist** and **DevOps**, but I'm on a journey to become a **Crossplatform Full-Stack** JavaScript developer. I am passionate about front-end development, building API and I'm actively building my expertise in modern web, mobile and desktop development technologies.
 
 ### 🛠️ Tech Stack & Skills
 
