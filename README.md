@@ -11,20 +11,20 @@ I currently work as a **Technical Support Specialist** and am on a journey to be
 - **Programming Languages**: JavaScript, TypeScript, a little bit of Python, Go, C# and Delphi
 - **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express, Nest.js, Deno, Socket.IO
-- **Mobile Development**: React Native + Expo, PWA
+- **Frontend**: React, Next.js, Bhvr
+- **Backend**: Node.js, Express, Nest.js, Deno, Socket.IO, Koa, Kafka.js, Hono
+- **Mobile Development**: React Native + Expo, PWA, Lynx
 - **TV apps Development**: React Native + Expo
 - **Desktop Development**: Electron, Tauri, PWA 
-- **Other Tools**: Zustand,Redux, SQLite, Git, Vite, SCSS, Bootstrap, jQuery
+- **Other Tools**: Zustand, Redux Tool Kit, Docker, Git, Vite, SCSS, Bootstrap, jQuery
 - **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
-- **Currently Learning**: Next.js, Nest.js, Electron, Lynx
+- **Data Bases**: SQLite, Apache Kafka, Redis, IndexedDB, localStarage
 
 ### 🔍 Current Focus
 
 - **Next.js**: Building dynamic web applications with server-side rendering.
-- **Nest.JS**: Easy way to build BFF.
+- **Koa**: Easy way to build BFF.
 - **Electron.js**: For adaptation my Next&Nest apps for offline use on desktop.
 - **React Native**: Developing cross-platform mobile apps.♥️
 
