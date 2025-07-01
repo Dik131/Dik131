@@ -41,6 +41,7 @@ I currently work as a **Technical Support Specialist** and **DevOps**, but I'm o
 - **Telegram Bots** - Created custom Telegram bots using Telegraf and Node-Telegram-bot libraries to automate tasks and enhance user interaction.
 - **Documentation** - Developed comprehensive technical documentation using Docsify to support team workflows and maintain internal tools.
 - **Automation Programs** - Wrote automation scripts to optimize repetitive tasks and improve efficiency in my current role.
+- **React Native course** - Currently, I'm writing React Native course. [Here's the link](https://stepik.org/course/227890).
 
 ### 💬 Contact Me
 
