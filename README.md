@@ -12,7 +12,7 @@ I currently work as a **Technical Support Specialist** and **DevOps**, but I'm o
 - **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js, Bhvr
-- **Backend**: Node.js, Express, Nest.js, Deno, Socket.IO, Koa, Kafka.js, Hono
+- **Backend**: Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono
 - **Mobile Development**: React Native + Expo, PWA, Lynx
 - **TV apps Development**: React Native + Expo
 - **Desktop Development**: Electron, Tauri, PWA 
@@ -50,4 +50,7 @@ I currently work as a **Technical Support Specialist** and **DevOps**, but I'm o
 - **GitHub**: [Dik131](https://github.com/Dik131) [IvanovDkLACCTV](https://github.com/IvanovDkLACCTV)
 - **BlueSky**: [ivanovdk.bsky.social](https://bsky.app/profile/ivanovdk.bsky.social)
 - **Telegram**: [Dik131](https://t.me/Dik131)
+- **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
+  
+  ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreieibooa5crwm5azvmh7n3woonve4k2t36m5wqwliljul43bod7kve@jpeg)
 
