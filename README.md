@@ -52,5 +52,6 @@ I currently work as a **Technical Support Specialist** and **DevOps**, but I'm o
 - **Telegram**: [Dik131](https://t.me/Dik131)
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
-  ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreieibooa5crwm5azvmh7n3woonve4k2t36m5wqwliljul43bod7kve@jpeg)
+  ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreiawatqvevglnejju456jyskhzeifn5eg2dndm3gj4doemx4wbvylm@jpeg)
+
 
