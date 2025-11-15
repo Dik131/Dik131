@@ -15,13 +15,13 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Programming Languages**: JavaScript, TypeScript, a little bit of Python, Go, C# and Delphi
 - **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
-- **Frontend**: React, Next.js, Bhvr
+- **Frontend**: React, Next.js, Vue.JS, HTMX
 - **Backend**: Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono
 - **Mobile Development**: React Native + Expo, PWA, Lynx
 - **TV apps Development**: React Native + Expo
 - **Desktop Development**: Electron, Tauri, PWA 
-- **Other Tools**: Zustand, Redux Tool Kit, Docker, Git, Vite, SCSS, Bootstrap, jQuery
-- **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs
+- **Other Tools**: Zustand, Jotai, TanStack Router & Query, React Router & Query, Redux Tool Kit, Docker, Git, Vite, SCSS, Bootstrap, jQuery
+- **Documentation Frameworks**: Docsify, Docusaurus, Fumadocs, Vitepress
 - **Telegram Libraries**: Telegraf, Node-Telegram-bot, grammY
 - **Data Bases**: SQLite, Apache Kafka, Redis, IndexedDB, localStarage
 
@@ -57,6 +57,7 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
   ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreibrlbpfoex7fouk3l7rjsc2axbe55mraa7szmupdl73cekiqvyrti@jpeg)
+
 
 
 
