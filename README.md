@@ -36,7 +36,7 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 
 - Diving deeper into full-stack development with **Next.js**, **Payload CMS** and **Electron.js**.
 - Refining my skills in **React Native** for building high-performance mobile apps.
-- My **[Stepik](https://stepik.org/users/37791605/profile)** profile
+- My **[Stepik](https://stepik.org/users/37791605/profile)** profile (I make my own courses and do others)
 
 ### 🏆 Recent Projects
 
@@ -57,6 +57,7 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
   ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreibrlbpfoex7fouk3l7rjsc2axbe55mraa7szmupdl73cekiqvyrti@jpeg)
+
 
 
 
