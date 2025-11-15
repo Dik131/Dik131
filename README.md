@@ -2,9 +2,13 @@
 
 ## [Dmitrii Ivanov :suspect:](https://ivanovdk-bc.netlify.app/)
 
-Hello! My name is Dmitrii. I'm 32 years old and currently based in **Moscow, Russia** (recently relocated from Turku, Finland).
+Hello! My name is **Dmitrii**. I'm 33 years old and currently based in Moscow, Russia.
 
-I currently work as a **Technical Support Specialist** and **DevOps**, but I'm on a journey to become a **Crossplatform Full-Stack** JavaScript developer. I am passionate about front-end development, building API and I'm actively building my expertise in modern web, mobile and desktop development technologies.
+I work as a **Technical Support Specialist** and **JavaScript/TypeScript developer**, with a broad background in IT, system administration, DevOps, and internal development. My passion lies in creating and improving interfaces of all kinds — from embedded web menus on microcontrollers to full‑scale web applications.
+
+I build **desktop apps with Electron, mobile apps with Expo/React Native**, and explore diverse front‑end ecosystems including **React, Vue, htmx, and Next.js**. On the documentation side, I have extensive experience with **Vitepress, Fumadocs, Docusaurus, Docsify, markdown‑it**, and more. I also maintain and update company websites on WordPress.
+
+For backend development, I use **Node.js, Deno, and Bun**, designing APIs and services to support my applications. My work combines hands‑on technical support with modern full‑stack development, giving me a versatile perspective across infrastructure, user experience, and software engineering.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -53,6 +57,7 @@ I currently work as a **Technical Support Specialist** and **DevOps**, but I'm o
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
   ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreibrlbpfoex7fouk3l7rjsc2axbe55mraa7szmupdl73cekiqvyrti@jpeg)
+
 
 
 
