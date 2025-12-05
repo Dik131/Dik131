@@ -2,9 +2,7 @@
 
 ## [Dmitrii Ivanov :suspect:](https://ivanovdk-bc.netlify.app/)
 
-Hello! My name is **Dmitrii**. I'm 33 years old and currently based in Moscow, Russia.
-
-I work as a **Technical Support Specialist** and **JavaScript/TypeScript developer**, with a broad background in IT, system administration, DevOps, and internal development. My passion lies in creating and improving interfaces of all kinds — from embedded web menus on microcontrollers to full‑scale web applications.
+Hello! My name is **Dmitrii**. I work as a **Technical Support Specialist** and **JavaScript/TypeScript developer**, with a broad background in IT, system administration, DevOps, and internal development. My passion lies in creating and improving interfaces of all kinds — from embedded web menus on microcontrollers to full‑scale web applications.
 
 I build **desktop apps with Electron, mobile apps with Expo/React Native**, and explore diverse front‑end ecosystems including **React, Vue, htmx, and Next.js**. On the documentation side, I have extensive experience with **Vitepress, Fumadocs, Docusaurus, Docsify, markdown‑it**, and more. I also maintain and update company websites on WordPress.
 
@@ -56,7 +54,8 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Telegram**: [Dik131](https://t.me/Dik131)
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
-  ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreibrlbpfoex7fouk3l7rjsc2axbe55mraa7szmupdl73cekiqvyrti@jpeg)
+  ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreiejiymuw4bu4bsp5rdegevlc25diffoe5l36iag76sqwrvhui5kt4@jpeg)
+
 
 
 
