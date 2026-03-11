@@ -1,4 +1,4 @@
-# Developer & Tech Support
+# Fullstack Developer & Tech Support
 
 ## [Dmitrii Ivanov :suspect:](https://ivanovdk-bc.netlify.app/)
 
@@ -15,7 +15,7 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js, Vue.JS, HTMX
-- **Backend**: Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono
+- **Backend**: NestJS, Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono
 - **Mobile Development**: React Native + Expo, PWA, Lynx
 - **TV apps Development**: React Native + Expo
 - **Desktop Development**: Electron, Tauri, PWA 
@@ -56,6 +56,7 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 - **Stepik**: [Ivanov Dk](https://stepik.org/users/37791605/)
   
   ![Stepik streak](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:edq4pg5bqabttidscfidc4v6/bafkreiejiymuw4bu4bsp5rdegevlc25diffoe5l36iag76sqwrvhui5kt4@jpeg)
+
 
 
 
