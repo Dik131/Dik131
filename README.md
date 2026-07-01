@@ -12,10 +12,10 @@ For backend development, I use **Node.js, Deno, and Bun**, designing APIs and se
 ### 🛠️ Tech Stack & Skills
 
 - **Programming Languages**: JavaScript, TypeScript, a little bit of Python, Go, C# and Delphi
-- **Linguistic Languages**: English (B2), Russian (native), German (A2), Finish (A1)
+- **Linguistic Languages**: English (C1), Russian (native), German (A2), Finish (A1)
 - **Other Languages**: HTML, CSS, MarkDown
 - **Frontend**: React, Next.js, Vue.JS, HTMX
-- **Backend**: NestJS, Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono
+- **Backend**: NestJS, Node.js, Express, Payload CMS, Deno, Socket.IO, Koa, Kafka.js, Hono, Go, Python
 - **Mobile Development**: React Native + Expo, PWA, Lynx
 - **TV apps Development**: React Native + Expo
 - **Desktop Development**: Electron, Tauri, PWA 
